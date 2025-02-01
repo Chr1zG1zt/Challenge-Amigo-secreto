@@ -20,8 +20,8 @@ Este proyecto permite agregar nombres a una lista y realizar un sorteo para eleg
 
 
 ## 📸 Capturas de Pantalla
-![Lista de nombres agregados](agregarURL1)
-![Resultado del sorteo](agregarURL2)
+![Lista de nombres agregados](https://github.com/Chr1zG1zt/Challenge-Amigo-secreto/blob/main/challenge-amigo-secreto_esp-main/assets/Cap-1.jpeg)
+![Resultado del sorteo](https://github.com/Chr1zG1zt/Challenge-Amigo-secreto/blob/main/challenge-amigo-secreto_esp-main/assets/Cap-2.jpeg)
 
 
 ## 🎯 Cómo Usarlo
