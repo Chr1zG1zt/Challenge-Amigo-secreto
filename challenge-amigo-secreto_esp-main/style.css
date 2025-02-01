@@ -160,3 +160,14 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+/*
+.name-list {
+    width: 300px; 
+    max-height: 50px; 
+    overflow-y: auto; 
+    padding: 10px; 
+    list-style-type: none; 
+    background: transparent; 
+}
+    */
